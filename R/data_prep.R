@@ -12,14 +12,24 @@
 #   select(COUNTRY, YEAR, TU_PROD_PERYEAR)
 #
 #
-# df23<-read_xlsx("data-raw/T2-3-FMS.xlsx")%>%
+# df23_a<-read_xlsx("data-raw/T2-3-FMS.xlsx")%>%
 #   gather(key="YEAR",value="UREQS_LOW", 2,4,6,8,10,12,14)%>%
+#   mutate(YEAR = substr(YEAR, 1, 4))%>%
+#   select(COUNTRY, YEAR, UREQS_LOW)
+#
+# df23_b<-read_xlsx("data-raw/T2-3-FMS.xlsx")%>%
+#   gather(key="YEAR",value="UREQS_HIGH", 3,5,7,9,11,13, 15)%>%
+#   mutate(YEAR = substr(YEAR, 1, 4))%>%
+#   select(COUNTRY, YEAR, UREQS_HIGH)
+#
 #   gather(key="YEAR",value="UREQS_HIGH", 2:8)%>%
 #   select(COUNTRY, YEAR, UREQS_LOW, UREQS_HIGH)%>%
 #   mutate(YEAR = substr(YEAR, 1, 4)#keeps only the year of the column-now-row name
 #     )%>%
 #   arrange(YEAR)
 #
+#
+# df23<-merge(df23_a, df23_b)
 #
 #
 # df24<-read_xlsx("data-raw/T2-4-FMS.xlsx")%>%
@@ -172,11 +182,12 @@
 #
 #
 #
-# df216<-read_xlsx("data-raw/T2-16-FMS.xlsx")%>%
-#   gather(key="YEAR", value="TOT_RU_PROD", 2:5)%>%
+# T217 : FILE CORRUPTED FROM ORIGIN !
+# df217<-read_xlsx("data-raw/T2-17-FMS.xlsx")%>%
+#   gather(key="YEAR", value="TOT_RU_USE", 2:5)%>%
 #   mutate(YEAR=as.double(YEAR),
-#          TOT_RU_PROD=as.double(TOT_RU_PROD))%>%
-#   select(COUNTRY, YEAR, TOT_RU_PROD)%>%
+#          TOT_RU_USE=as.double(TOT_RU_USE))%>%
+#   select(COUNTRY, YEAR, TOT_RU_USE)%>%
 #   arrange(COUNTRY)
 #
 #

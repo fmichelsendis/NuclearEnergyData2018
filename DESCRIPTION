@@ -14,5 +14,4 @@ URL: https://github.com/fmichelsendis/NuclearEnergyData2018
 Encoding: UTF-8
 LazyData: true
 BugReports: https://github.com/fmichelsendis/NuclearEnergyData2018/issues
-
-
+RoxygenNote: 6.1.1
