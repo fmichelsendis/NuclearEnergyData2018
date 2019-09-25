@@ -2,10 +2,14 @@ Package: NuclearEnergyData2018
 Type: Package
 Title: Data from the NEA Nuclear Energy Data "Brown Book" 2018 edition 
 Version: 0.1.0
-Author: F. Michel-Sendis
-Maintainer: F. Michel-Sendis franco.michel-sendis@oecd-nea.org
+Authors@R: 
+    person(given = "Franco",
+           family = "Michel-Sendis",
+           role = c("aut", "cre"),
+           email = "franco@sendis.org")
 Description: Provides datasets as extracted from the official NEA data for use in R
-License:  
+License: MIT + file LICENSE
+URL: https://github.com/fmichelsendis/NuclearEnergyData2018
 Encoding: UTF-8
 LazyData: true
 
