@@ -1,0 +1,71 @@
+"","COUNTRY","YEAR","METHOD","ECAP"
+"1","United States",2016,"Diffusion",0
+"2","United States",2016,"Centrifuge",4700
+"3","United States",2016,"Laser",0
+"4","France",2016,"Centrifuge",7500
+"5","Germany",2016,"Centrifuge",4000
+"6","Netherlands",2016,"Centrifuge",6200
+"7","United Kingdom",2016,"Centrifuge",4700
+"8","Japan",2016,"Centrifuge",1050
+"9","Argentina",2016,"Diffusion",4
+"10","Russia",2016,"Centrifuge",25000
+"11","United States",2017,"Diffusion",0
+"12","United States",2017,"Centrifuge",4800
+"13","United States",2017,"Laser",0
+"14","France",2017,"Centrifuge",7500
+"15","Germany",2017,"Centrifuge",4000
+"16","Netherlands",2017,"Centrifuge",6200
+"17","United Kingdom",2017,"Centrifuge",4700
+"18","Japan",2017,"Centrifuge",1050
+"19","Argentina",2017,"Diffusion",4
+"20","Russia",2017,"Centrifuge",25000
+"21","United States",2018,"Diffusion",0
+"22","United States",2018,"Centrifuge",4800
+"23","United States",2018,"Laser",0
+"24","France",2018,"Centrifuge",7500
+"25","Germany",2018,"Centrifuge",4000
+"26","Netherlands",2018,"Centrifuge",6200
+"27","United Kingdom",2018,"Centrifuge",NA
+"28","Japan",2018,"Centrifuge",NA
+"29","Argentina",2018,"Diffusion",4
+"30","Russia",2018,"Centrifuge",NA
+"31","United States",2020,"Diffusion",0
+"32","United States",2020,"Centrifuge",4800
+"33","United States",2020,"Laser",0
+"34","France",2020,"Centrifuge",7500
+"35","Germany",2020,"Centrifuge",4000
+"36","Netherlands",2020,"Centrifuge",6200
+"37","United Kingdom",2020,"Centrifuge",NA
+"38","Japan",2020,"Centrifuge",NA
+"39","Argentina",2020,"Diffusion",4
+"40","Russia",2020,"Centrifuge",NA
+"41","United States",2025,"Diffusion",0
+"42","United States",2025,"Centrifuge",4800
+"43","United States",2025,"Laser",0
+"44","France",2025,"Centrifuge",7500
+"45","Germany",2025,"Centrifuge",4000
+"46","Netherlands",2025,"Centrifuge",6200
+"47","United Kingdom",2025,"Centrifuge",NA
+"48","Japan",2025,"Centrifuge",NA
+"49","Argentina",2025,"Diffusion",4
+"50","Russia",2025,"Centrifuge",NA
+"51","United States",2030,"Diffusion",0
+"52","United States",2030,"Centrifuge",4800
+"53","United States",2030,"Laser",0
+"54","France",2030,"Centrifuge",7500
+"55","Germany",2030,"Centrifuge",4000
+"56","Netherlands",2030,"Centrifuge",6200
+"57","United Kingdom",2030,"Centrifuge",NA
+"58","Japan",2030,"Centrifuge",NA
+"59","Argentina",2030,"Diffusion",NA
+"60","Russia",2030,"Centrifuge",NA
+"61","United States",2035,"Diffusion",0
+"62","United States",2035,"Centrifuge",4800
+"63","United States",2035,"Laser",0
+"64","France",2035,"Centrifuge",7500
+"65","Germany",2035,"Centrifuge",4000
+"66","Netherlands",2035,"Centrifuge",6200
+"67","United Kingdom",2035,"Centrifuge",NA
+"68","Japan",2035,"Centrifuge",NA
+"69","Argentina",2035,"Diffusion",NA
+"70","Russia",2035,"Centrifuge",NA

@@ -1,0 +1,197 @@
+"","COUNTRY","YEAR","FUELTYPE","SNFSTOCAP"
+"1","Argentina",2016,"LWR",NA
+"2","Argentina",2016,"HWR",6052
+"3","Argentina",2017,"LWR",NA
+"4","Argentina",2017,"HWR",6250
+"5","Argentina",2018,"LWR",NA
+"6","Argentina",2018,"HWR",6250
+"7","Argentina",2020,"LWR",NA
+"8","Argentina",2020,"HWR",6250
+"9","Argentina",2025,"LWR",25
+"10","Argentina",2025,"HWR",6907
+"11","Argentina",2030,"LWR",25
+"12","Argentina",2030,"HWR",6907
+"13","Argentina",2035,"LWR",25
+"14","Argentina",2035,"HWR",6907
+"15","Belgium",2016,"LWR",3830
+"16","Belgium",2017,"LWR",3830
+"17","Belgium",2018,"LWR",NA
+"18","Belgium",2020,"LWR",NA
+"19","Belgium",2025,"LWR",NA
+"20","Belgium",2030,"LWR",NA
+"21","Belgium",2035,"LWR",NA
+"22","Canada",2016,"HWR",71949
+"23","Canada",2017,"HWR",69302
+"24","Canada",2018,"HWR",69302
+"25","Canada",2020,"HWR",82074
+"26","Canada",2025,"HWR",85736
+"27","Canada",2030,"HWR",94584
+"28","Canada",2035,"HWR",94584
+"29","Czech Republic",2016,"LWR",4150
+"30","Czech Republic",2017,"LWR",4150
+"31","Czech Republic",2018,"LWR",4150
+"32","Czech Republic",2020,"LWR",4150
+"33","Czech Republic",2025,"LWR",4150
+"34","Czech Republic",2030,"LWR",4150
+"35","Czech Republic",2035,"LWR",5050
+"36","Finland",2016,"LWR",2875
+"37","Finland",2017,"LWR",2875
+"38","Finland",2018,"LWR",2875
+"39","Finland",2020,"LWR",3285
+"40","Finland",2025,"LWR",3345
+"41","Finland",2030,"LWR",4275
+"42","Finland",2035,"LWR",4275
+"43","France",2016,"LWR",26000
+"44","France",2017,"LWR",26000
+"45","France",2018,"LWR",26000
+"46","France",2020,"LWR",26000
+"47","France",2025,"LWR",26000
+"48","France",2030,"LWR",26000
+"49","France",2035,"LWR",NA
+"50","Germany",2016,"LWR",25208
+"51","Germany",2017,"LWR",25685
+"52","Germany",2018,"LWR",24685
+"53","Germany",2020,"LWR",24367
+"54","Germany",2025,"LWR",22370
+"55","Germany",2030,"LWR",22370
+"56","Germany",2035,"LWR",NA
+"57","Hungary",2016,"LWR",1412
+"58","Hungary",2017,"LWR",1412
+"59","Hungary",2018,"LWR",1662
+"60","Hungary",2020,"LWR",1662
+"61","Hungary",2025,"LWR",2602
+"62","Hungary",2030,"LWR",2852
+"63","Hungary",2035,"LWR",3125
+"64","Italy",2016,"LWR",NA
+"65","Italy",2017,"LWR",NA
+"66","Italy",2018,"LWR",NA
+"67","Italy",2020,"LWR",NA
+"68","Italy",2025,"LWR",NA
+"69","Italy",2030,"LWR",NA
+"70","Italy",2035,"LWR",NA
+"71","Japan",2016,"LWR",20740
+"72","Japan",2016,"HWR",NA
+"73","Japan",2016,"Others",NA
+"74","Japan",2017,"LWR",20830
+"75","Japan",2017,"HWR",NA
+"76","Japan",2017,"Others",NA
+"77","Japan",2018,"LWR",NA
+"78","Japan",2018,"HWR",NA
+"79","Japan",2018,"Others",NA
+"80","Japan",2020,"LWR",NA
+"81","Japan",2020,"HWR",NA
+"82","Japan",2020,"Others",NA
+"83","Japan",2025,"LWR",NA
+"84","Japan",2025,"HWR",NA
+"85","Japan",2025,"Others",NA
+"86","Japan",2030,"LWR",NA
+"87","Japan",2030,"HWR",NA
+"88","Japan",2030,"Others",NA
+"89","Japan",2035,"LWR",NA
+"90","Japan",2035,"HWR",NA
+"91","Japan",2035,"Others",NA
+"92","Korea",2016,"LWR",10979
+"93","Korea",2016,"HWR",9438
+"94","Korea",2017,"LWR",11024
+"95","Korea",2017,"HWR",9438
+"96","Korea",2018,"LWR",11350
+"97","Korea",2018,"HWR",9438
+"98","Korea",2020,"LWR",12566
+"99","Korea",2020,"HWR",12630
+"100","Korea",2025,"LWR",17067
+"101","Korea",2025,"HWR",12630
+"102","Korea",2030,"LWR",17067
+"103","Korea",2030,"HWR",12630
+"104","Korea",2035,"LWR",17067
+"105","Korea",2035,"HWR",12630
+"106","Mexico",2016,"LWR",984
+"107","Mexico",2017,"LWR",984
+"108","Mexico",2018,"LWR",984
+"109","Mexico",2020,"LWR",984
+"110","Mexico",2025,"LWR",984
+"111","Mexico",2030,"LWR",984
+"112","Mexico",2035,"LWR",984
+"113","Netherlands",2016,"LWR",121
+"114","Netherlands",2017,"LWR",121
+"115","Netherlands",2018,"LWR",121
+"116","Netherlands",2020,"LWR",121
+"117","Netherlands",2025,"LWR",121
+"118","Netherlands",2030,"LWR",121
+"119","Netherlands",2035,"LWR",121
+"120","Romania",2016,"HWR",2844
+"121","Romania",2017,"HWR",3074
+"122","Romania",2018,"HWR",3303
+"123","Romania",2020,"HWR",3761
+"124","Romania",2025,"HWR",4907
+"125","Romania",2030,"HWR",6053
+"126","Romania",2035,"HWR",7199
+"127","Russia",2016,"LWR",56856
+"128","Russia",2017,"LWR",56856
+"129","Russia",2018,"LWR",57302
+"130","Russia",2020,"LWR",57525
+"131","Russia",2025,"LWR",58640
+"132","Russia",2030,"LWR",59978
+"133","Russia",2035,"LWR",60870
+"134","Slovak Republic",2016,"LWR",NA
+"135","Slovak Republic",2017,"LWR",NA
+"136","Slovak Republic",2018,"LWR",NA
+"137","Slovak Republic",2020,"LWR",NA
+"138","Slovak Republic",2025,"LWR",NA
+"139","Slovak Republic",2030,"LWR",NA
+"140","Slovak Republic",2035,"LWR",NA
+"141","Slovenia",2016,"LWR",596
+"142","Slovenia",2017,"LWR",596
+"143","Slovenia",2018,"LWR",596
+"144","Slovenia",2020,"LWR",596
+"145","Slovenia",2025,"LWR",826
+"146","Slovenia",2030,"LWR",1056
+"147","Slovenia",2035,"LWR",1056
+"148","Spain",2016,"LWR",5531
+"149","Spain",2017,"LWR",5650
+"150","Spain",2018,"LWR",5949
+"151","Spain",2020,"LWR",11213
+"152","Spain",2025,"LWR",7473
+"153","Spain",2030,"LWR",8560
+"154","Spain",2035,"LWR",5531
+"155","Sweden",2016,"LWR",8000
+"156","Sweden",2017,"LWR",8000
+"157","Sweden",2018,"LWR",8000
+"158","Sweden",2020,"LWR",8000
+"159","Sweden",2025,"LWR",NA
+"160","Sweden",2030,"LWR",NA
+"161","Sweden",2035,"LWR",NA
+"162","Switzerland",2016,"LWR",NA
+"163","Switzerland",2017,"LWR",NA
+"164","Switzerland",2018,"LWR",NA
+"165","Switzerland",2020,"LWR",NA
+"166","Switzerland",2025,"LWR",NA
+"167","Switzerland",2030,"LWR",NA
+"168","Switzerland",2035,"LWR",NA
+"169","United Kingdom",2016,"LWR",524
+"170","United Kingdom",2016,"GCR",7378
+"171","United Kingdom",2017,"LWR",672
+"172","United Kingdom",2017,"GCR",7379
+"173","United Kingdom",2018,"LWR",672
+"174","United Kingdom",2018,"GCR",7379
+"175","United Kingdom",2020,"LWR",750
+"176","United Kingdom",2020,"GCR",9379
+"177","United Kingdom",2025,"LWR",1188
+"178","United Kingdom",2025,"GCR",9379
+"179","United Kingdom",2030,"LWR",2213
+"180","United Kingdom",2030,"GCR",9279
+"181","United Kingdom",2035,"LWR",6482
+"182","United Kingdom",2035,"GCR",9249
+"183","United States",2016,"LWR",NA
+"184","United States",2016,"Others(c)",2400
+"185","United States",2017,"LWR",NA
+"186","United States",2017,"Others(c)",2400
+"187","United States",2018,"LWR",NA
+"188","United States",2018,"Others(c)",2400
+"189","United States",2020,"LWR",NA
+"190","United States",2020,"Others(c)",2400
+"191","United States",2025,"LWR",NA
+"192","United States",2025,"Others(c)",2400
+"193","United States",2030,"LWR",NA
+"194","United States",2030,"Others(c)",2400
+"195","United States",2035,"LWR",NA
+"196","United States",2035,"Others(c)",2400

@@ -1,0 +1,155 @@
+"","COUNTRY","YEAR","FUELTYPE","FABCAP"
+"1","Argentina",2016,"PWR",NA
+"2","Argentina",2016,"HWR",320
+"3","Argentina",2017,"PWR",NA
+"4","Argentina",2017,"HWR",320
+"5","Argentina",2018,"PWR",8
+"6","Argentina",2018,"HWR",320
+"7","Argentina",2020,"PWR",8
+"8","Argentina",2020,"HWR",320
+"9","Argentina",2025,"PWR",50
+"10","Argentina",2025,"HWR",320
+"11","Argentina",2030,"PWR",50
+"12","Argentina",2030,"HWR",320
+"13","Argentina",2035,"PWR",50
+"14","Argentina",2035,"HWR",320
+"15","Belgium",2016,"PWR",0
+"16","Belgium",2017,"PWR",0
+"17","Belgium",2018,"PWR",0
+"18","Belgium",2020,"PWR",0
+"19","Belgium",2025,"PWR",0
+"20","Belgium",2030,"PWR",0
+"21","Belgium",2035,"PWR",0
+"22","Canada",2016,"HWR",1760
+"23","Canada",2017,"HWR",1780
+"24","Canada",2018,"HWR",3300
+"25","Canada",2020,"HWR",3300
+"26","Canada",2025,"HWR",3300
+"27","Canada",2030,"HWR",3300
+"28","Canada",2035,"HWR",3300
+"29","France",2016,"PWR",1400
+"30","France",2016,"PWR MOX",195
+"31","France",2016,"FBR MOX",0
+"32","France",2017,"PWR",1400
+"33","France",2017,"PWR MOX",195
+"34","France",2017,"FBR MOX",0
+"35","France",2018,"PWR",1400
+"36","France",2018,"PWR MOX",195
+"37","France",2018,"FBR MOX",0
+"38","France",2020,"PWR",1400
+"39","France",2020,"PWR MOX",195
+"40","France",2020,"FBR MOX",10
+"41","France",2025,"PWR",1400
+"42","France",2025,"PWR MOX",195
+"43","France",2025,"FBR MOX",10
+"44","France",2030,"PWR",1400
+"45","France",2030,"PWR MOX",195
+"46","France",2030,"FBR MOX",10
+"47","France",2035,"PWR",1400
+"48","France",2035,"PWR MOX",195
+"49","France",2035,"FBR MOX",10
+"50","Germany",2016,"LWR",650
+"51","Germany",2017,"LWR",650
+"52","Germany",2018,"LWR",650
+"53","Germany",2020,"LWR",650
+"54","Germany",2025,"LWR",650
+"55","Germany",2030,"LWR",650
+"56","Germany",2035,"LWR",650
+"57","Japan",2016,"PWR",724
+"58","Japan",2016,"BWR",1000
+"59","Japan",2016,"P+B MOX",0
+"60","Japan",2016,"FBR MOX",0
+"61","Japan",2017,"PWR",724
+"62","Japan",2017,"BWR",870
+"63","Japan",2017,"P+B MOX",0
+"64","Japan",2017,"FBR MOX",0
+"65","Japan",2018,"PWR",NA
+"66","Japan",2018,"BWR",NA
+"67","Japan",2018,"P+B MOX",NA
+"68","Japan",2018,"FBR MOX",NA
+"69","Japan",2020,"PWR",NA
+"70","Japan",2020,"BWR",NA
+"71","Japan",2020,"P+B MOX",NA
+"72","Japan",2020,"FBR MOX",NA
+"73","Japan",2025,"PWR",NA
+"74","Japan",2025,"BWR",NA
+"75","Japan",2025,"P+B MOX",NA
+"76","Japan",2025,"FBR MOX",NA
+"77","Japan",2030,"PWR",NA
+"78","Japan",2030,"BWR",NA
+"79","Japan",2030,"P+B MOX",NA
+"80","Japan",2030,"FBR MOX",NA
+"81","Japan",2035,"PWR",NA
+"82","Japan",2035,"BWR",NA
+"83","Japan",2035,"P+B MOX",NA
+"84","Japan",2035,"FBR MOX",NA
+"85","Korea",2016,"PWR",700
+"86","Korea",2016,"HWR",400
+"87","Korea",2017,"PWR",700
+"88","Korea",2017,"HWR",400
+"89","Korea",2018,"PWR",700
+"90","Korea",2018,"HWR",400
+"91","Korea",2020,"PWR",700
+"92","Korea",2020,"HWR",400
+"93","Korea",2025,"PWR",1050
+"94","Korea",2025,"HWR",400
+"95","Korea",2030,"PWR",1050
+"96","Korea",2030,"HWR",400
+"97","Korea",2035,"PWR",1050
+"98","Korea",2035,"HWR",NA
+"99","Romania",2016,"HWR",250
+"100","Romania",2017,"HWR",250
+"101","Romania",2018,"HWR",250
+"102","Romania",2020,"HWR",250
+"103","Romania",2025,"HWR",250
+"104","Romania",2030,"HWR",500
+"105","Romania",2035,"HWR",500
+"106","Spain",2016,"BWR",100
+"107","Spain",2016,"PWR",300
+"108","Spain",2017,"BWR",100
+"109","Spain",2017,"PWR",300
+"110","Spain",2018,"BWR",100
+"111","Spain",2018,"PWR",300
+"112","Spain",2020,"BWR",100
+"113","Spain",2020,"PWR",300
+"114","Spain",2025,"BWR",100
+"115","Spain",2025,"PWR",300
+"116","Spain",2030,"BWR",100
+"117","Spain",2030,"PWR",300
+"118","Spain",2035,"BWR",100
+"119","Spain",2035,"PWR",300
+"120","Sweden",2016,"LWR",600
+"121","Sweden",2017,"LWR",600
+"122","Sweden",2018,"LWR",600
+"123","Sweden",2020,"LWR",600
+"124","Sweden",2025,"LWR",600
+"125","Sweden",2030,"LWR",600
+"126","Sweden",2035,"LWR",600
+"127","United Kingdom",2016,"GCR",240
+"128","United Kingdom",2016,"PWR",200
+"129","United Kingdom",2017,"GCR",240
+"130","United Kingdom",2017,"PWR",200
+"131","United Kingdom",2018,"GCR",240
+"132","United Kingdom",2018,"PWR",200
+"133","United Kingdom",2020,"GCR",240
+"134","United Kingdom",2020,"PWR",200
+"135","United Kingdom",2025,"GCR",240
+"136","United Kingdom",2025,"PWR",200
+"137","United Kingdom",2030,"GCR",240
+"138","United Kingdom",2030,"PWR",400
+"139","United Kingdom",2035,"GCR",0
+"140","United Kingdom",2035,"PWR",400
+"141","United States",2016,"LWR",4800
+"142","United States",2016,"MOX",0
+"143","United States",2017,"LWR",5000
+"144","United States",2017,"MOX",0
+"145","United States",2018,"LWR",5000
+"146","United States",2018,"MOX",0
+"147","United States",2020,"LWR",5000
+"148","United States",2020,"MOX",0
+"149","United States",2025,"LWR",5000
+"150","United States",2025,"MOX",0
+"151","United States",2030,"LWR",5000
+"152","United States",2030,"MOX",0
+"153","United States",2035,"LWR",5000
+"154","United States",2035,"MOX",0

@@ -1,0 +1,155 @@
+"","COUNTRY","YEAR","ARISINGS","INSTORAGE"
+"1","Argentina",2016,119,4662
+"2","Argentina",2017,86,4748
+"3","Argentina",2018,115,4863
+"4","Argentina",2020,218,5280
+"5","Argentina",2025,220,6337
+"6","Argentina",2030,220,7435
+"7","Argentina",2035,244,8646
+"8","Belgium",2016,96,3554
+"9","Belgium",2017,96,3650
+"10","Belgium",2018,NA,NA
+"11","Belgium",2020,NA,NA
+"12","Belgium",2025,NA,NA
+"13","Belgium",2030,NA,NA
+"14","Belgium",2035,NA,NA
+"15","Canada",2016,1721,52658
+"16","Canada",2017,1599,54263
+"17","Canada",2018,1599,55862
+"18","Canada",2020,1068,57998
+"19","Canada",2025,1242,64208
+"20","Canada",2030,1344,70928
+"21","Canada",2035,1442,78138
+"22","Czech Republic",2016,66,1917
+"23","Czech Republic",2017,60,1977
+"24","Czech Republic",2018,84,2061
+"25","Czech Republic",2020,74,2212
+"26","Czech Republic",2025,80,2607
+"27","Czech Republic",2030,81,3008
+"28","Czech Republic",2035,145,3473
+"29","Finland",2016,54,2105
+"30","Finland",2017,55,2159
+"31","Finland",2018,57,2216
+"32","Finland",2020,90,2361
+"33","Finland",2025,113,2833
+"34","Finland",2030,131,3464
+"35","Finland",2035,92,3926
+"36","France",2016,NA,NA
+"37","France",2017,NA,NA
+"38","France",2018,NA,NA
+"39","France",2020,NA,NA
+"40","France",2025,NA,NA
+"41","France",2030,NA,15387
+"42","France",2035,NA,NA
+"43","Germany",2016,67,8485
+"44","Germany",2017,215,8700
+"45","Germany",2018,336,9036
+"46","Germany",2020,211,9355
+"47","Germany",2025,0,10171
+"48","Germany",2030,0,10171
+"49","Germany",2035,0,10171
+"50","Hungary",2016,42,1246
+"51","Hungary",2017,36,1282
+"52","Hungary",2018,37,1319
+"53","Hungary",2020,42,1403
+"54","Hungary",2025,43,1618
+"55","Hungary",2030,84,2038
+"56","Hungary",2035,91,2493
+"57","Italy",2016,NA,NA
+"58","Italy",2017,NA,NA
+"59","Italy",2018,NA,NA
+"60","Italy",2020,NA,NA
+"61","Italy",2025,NA,NA
+"62","Italy",2030,NA,NA
+"63","Italy",2035,NA,NA
+"64","Japan",2016,80,14970
+"65","Japan",2017,240,15120
+"66","Japan",2018,NA,NA
+"67","Japan",2020,NA,NA
+"68","Japan",2025,NA,NA
+"69","Japan",2030,NA,NA
+"70","Japan",2035,NA,NA
+"71","Korea",2016,634,15102
+"72","Korea",2017,457,15559
+"73","Korea",2018,916,16475
+"74","Korea",2020,775,18026
+"75","Korea",2025,871,22382
+"76","Korea",2030,631,25537
+"77","Korea",2035,422,27649
+"78","Mexico",2016,26,662
+"79","Mexico",2017,51,713
+"80","Mexico",2018,28,742
+"81","Mexico",2020,52,819
+"82","Mexico",2025,26,876
+"83","Mexico",2030,26,1155
+"84","Mexico",2035,50,1331
+"85","Netherlands",2016,8,65
+"86","Netherlands",2017,8,52
+"87","Netherlands",2018,9,45
+"88","Netherlands",2020,8,40
+"89","Netherlands",2025,8,40
+"90","Netherlands",2030,9,40
+"91","Netherlands",2035,0,70
+"92","Romania",2016,190,2810
+"93","Romania",2017,190,3027
+"94","Romania",2018,190,3217
+"95","Romania",2020,190,3597
+"96","Romania",2025,190,4547
+"97","Romania",2030,380,5687
+"98","Romania",2035,380,6637
+"99","Russia",2016,650,21980
+"100","Russia",2017,629,22500
+"101","Russia",2018,650,23000
+"102","Russia",2020,716,23540
+"103","Russia",2025,772,25178
+"104","Russia",2030,845,26724
+"105","Russia",2035,845,29040
+"106","Slovak Republic",2016,NA,NA
+"107","Slovak Republic",2017,NA,NA
+"108","Slovak Republic",2018,NA,NA
+"109","Slovak Republic",2020,NA,NA
+"110","Slovak Republic",2025,NA,NA
+"111","Slovak Republic",2030,NA,NA
+"112","Slovak Republic",2035,NA,NA
+"113","Slovenia",2016,21.7,470
+"114","Slovenia",2017,0,470
+"115","Slovenia",2018,22,491
+"116","Slovenia",2020,15,513
+"117","Slovenia",2025,15,585
+"118","Slovenia",2030,15,665
+"119","Slovenia",2035,15,730
+"120","Spain",2016,137,4979
+"121","Spain",2017,188,5167
+"122","Spain",2018,130,5297
+"123","Spain",2020,106,5553
+"124","Spain",2025,192,6422
+"125","Spain",2030,0,6717
+"126","Spain",2035,0,6717
+"127","Sweden",2016,217,6266
+"128","Sweden",2017,184,6450
+"129","Sweden",2018,NA,NA
+"130","Sweden",2020,NA,NA
+"131","Sweden",2025,NA,NA
+"132","Sweden",2030,NA,NA
+"133","Sweden",2035,NA,NA
+"134","Switzerland",2016,22,1397
+"135","Switzerland",2017,22,1424
+"136","Switzerland",2018,16,1456
+"137","Switzerland",2020,16,1580
+"138","Switzerland",2025,16,1761
+"139","Switzerland",2030,16,2040
+"140","Switzerland",2035,16,2269
+"141","United Kingdom",2016,NA,NA
+"142","United Kingdom",2017,541,3377
+"143","United Kingdom",2018,680,3377
+"144","United Kingdom",2020,226,3116
+"145","United Kingdom",2025,394,4545
+"146","United Kingdom",2030,552,6040
+"147","United Kingdom",2035,346,7133
+"148","United States",2016,2087,77224
+"149","United States",2017,2184,79408
+"150","United States",2018,2493,81901
+"151","United States",2020,2362,86235
+"152","United States",2025,1799,96995
+"153","United States",2030,1951,106840
+"154","United States",2035,2006,116694
